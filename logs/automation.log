@@ -1,0 +1,32 @@
+01/28/2022 22:21:35.962 IST INFO  (report.Reporter:>>>startTestCase:[21])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+01/28/2022 22:21:42.810 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+01/28/2022 22:21:42.900 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+01/28/2022 22:21:42.901 IST INFO  (report.Reporter:>>>pass:[40]) 97.0.4692.99
+----------------------------------------------------------------
+01/28/2022 22:21:42.901 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 97.0.4692.99
+----------------------------------------------------------------
+01/28/2022 22:21:46.625 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyInventoryFeature()  ****************************
+----------------------------------------------------------------
+01/28/2022 22:21:46.789 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+01/28/2022 22:21:46.923 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+01/28/2022 22:21:55.672 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Inventory
+----------------------------------------------------------------
+01/28/2022 22:21:58.846 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+01/28/2022 22:22:02.041 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+01/28/2022 22:22:05.476 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+01/28/2022 22:22:05.952 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data MyProduct363
+----------------------------------------------------------------
+01/28/2022 22:22:09.495 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+01/28/2022 22:22:12.974 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Update Quantity
+----------------------------------------------------------------
+01/28/2022 22:22:16.312 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
